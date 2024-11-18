@@ -18,8 +18,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 ## Coding and Output:
 ```
-DEVELOPED BY : KARTHICK K
-Reg No : 212222040070
+DEVELOPED BY : Bala Sathiesh CS
+Reg No : 212222040022
 ```
 ```
 import matplotlib.pyplot as plt
